@@ -1,8 +1,13 @@
-# Yanqi's Dotfiles
+# Yanqi's $PROFILE
 
 - [Microsoft.PowerShell_profile.ps1](./Microsoft.PowerShell_profile.ps1)
 
+### Use
+```bash
+notepad $PROFILE
+```
+
 ### Check Also
 
-- [yanqisf/dotfiles](https://github.com/yanqisf/dotfiles) - My dotfiles
-- [yanqisf/vscode-settings](https://github.com/yanqisf/vscode-settings) - My vscode-settings
+- [yanqi1711/dotfiles](https://github.com/yanqi1711/dotfiles) - My $PROFILE
+- [yanqi1711/vscode-settings](https://github.com/yanqi1711/vscode-settings) - My vscode-settings
