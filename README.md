@@ -1,8 +1,10 @@
 # Yanqi's $PROFILE
 
 - [Microsoft.PowerShell_profile.ps1](./Microsoft.PowerShell_profile.ps1)
+- [.zshrc](./.zshrc)
 
 ### Use
+To edit your PowerShell profile, run the following command in PowerShell:
 ```bash
 notepad $PROFILE
 ```
